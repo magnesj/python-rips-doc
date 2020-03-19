@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.coverage', 'sphinx.ext.napoleon'
 ]
 
-master_doc  = 'PythonRips'
+master_doc  = 'modules'
 
 napoleon_google_docstring = True
 
@@ -44,7 +44,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['build/*', 'rips.rst']
+exclude_patterns = ['build/*']
 
 
 # -- Options for HTML output -------------------------------------------------

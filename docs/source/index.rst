@@ -4,17 +4,11 @@ Welcome to ResInsight Python documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
 
-   readme
-   installation
-   datamodels
-   usage
-   usextgeoroxar
-   contributing
-   authors
-   history
-   apiref/modules
+   PythonExamples
+   PythonRips
+   rips
 
 Indices and tables
 ==================
