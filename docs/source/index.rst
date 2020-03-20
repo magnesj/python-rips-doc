@@ -1,14 +1,19 @@
-Welcome to ResInsight Python documentation!
-===========================================
+ResInsight Scripting API
+========================
 
-Contents:
+Many features of ResInsigt can automated using the Python API
+
+See https://resinsight.org for the main **ResInsight** documentation.
+
+Contents
+========
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
 
    PythonExamples
-   PythonRips
    rips
+   pdm_objects
 
 Indices and tables
 ==================

@@ -17,12 +17,12 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'rips'
-copyright = '2019, Ceetron Solutions AS'
+project = 'ResInsight Scripting API'
+copyright = '2020, Ceetron Solutions AS'
 author = 'Ceetron Solutions AS'
 
 # The full version, including alpha/beta/rc tags
-release = '2019.04.01'
+release = '2020.04'
 
 
 # -- General configuration ---------------------------------------------------
@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.coverage', 'sphinx.ext.napoleon'
 ]
 
-master_doc  = 'modules'
+master_doc  = 'index'
 
 napoleon_google_docstring = True
 
@@ -52,7 +52,7 @@ exclude_patterns = ['build/*']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 
 smartquotes=False
 

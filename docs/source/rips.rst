@@ -1,9 +1,6 @@
 rips package
 ============
 
-Submodules
-----------
-
 rips.case module
 ----------------
 
@@ -93,10 +90,3 @@ rips.well\_log\_plot module
    :show-inheritance:
 
 
-Module contents
----------------
-
-.. automodule:: rips
-   :members:
-   :undoc-members:
-   :show-inheritance:
