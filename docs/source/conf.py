@@ -54,6 +54,11 @@ exclude_patterns = ['build/*']
 #
 html_theme = "sphinx_rtd_theme"
 
+html_logo = "images/ResInsightCroppedIconPicture.png"
+
+html_theme_options = {
+    'style_nav_header_background': '#505050',
+}
 smartquotes=False
 
 # Add any paths that contain custom static files (such as style sheets) here,
